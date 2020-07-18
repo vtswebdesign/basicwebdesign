@@ -1,0 +1,25 @@
+/* CSS files add styling rules to your content
+https://hartfordhealthcare.org/about-us/news-press/news-detail?articleid=26936&publicId=395
+ */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+div.lowrisk1{
+color: #4495cb;
+}
+
+div.lowrisk2{
+color: #0e8bab;
+}
+
+div.highrisk9{
+  color: #ee1414;
+}
